@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "firebase": "^11.3.1",
+    "lite-server": "^2.6.1"
+  },
+  "scripts": {
+    "start": "lite-server"
+  }
+}
